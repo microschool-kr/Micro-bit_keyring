@@ -1,3 +1,3 @@
 basic.forever(function () {
-    basic.showString("Amari")
+    basic.showIcon(IconNames.Happy)
 })
